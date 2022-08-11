@@ -1,0 +1,20 @@
+----- api
+https://www.webfx.com/web-development/glossary/http-status-codes/
+
+https://httpstatuses.org/
+
+https://viacep.com.br/
+
+https://reqbin.com/
+
+https://github.com/public-apis/public-apis
+
+https://jsonplaceholder.typicode.com/
+
+
+----- nodejs
+https://nodejs.org/en/
+** baixar a versão lts (versão que já passou por teste)
+
+módulos do note
+www.npm.js
