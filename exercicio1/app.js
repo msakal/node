@@ -7,8 +7,11 @@ for ( i = 0; i < tamanho; i++) {
 }
 
 console.log('-----------------------');
+console.log();
 i = 0;
 while (i < tamanho) {
     console.log(`${i} -  ${artistas[i]}`);
     i ++;
 }
+console.log('-----------------------');
+console.log();
