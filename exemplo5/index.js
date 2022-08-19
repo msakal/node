@@ -5,7 +5,7 @@ console.log(chalk.red('--------------------'));
 console.log();
 
 let aluno = "Marcello";
-let idade = 48
+let idade = 4
 
 if ( idade >= 18 ) {
     console.log(`${aluno} ${chalk.blue.bgYellow.bold(`é maior de idade!`)}`);
