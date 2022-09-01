@@ -44,3 +44,6 @@
 
   # Controla - transportar dados do back-end para o front-end
   - npm install ejs
+
+  # instalando recursos para mysql
+  - npm install mysql2
