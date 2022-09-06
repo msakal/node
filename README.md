@@ -47,3 +47,6 @@
 
   # instalando recursos para mysql
   - npm install mysql2
+
+# instalando cors (acesso remoto)
+- npm install cors
